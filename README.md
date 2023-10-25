@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Ibrahim👋
 
-<!--
-**Ibrahim111101/Ibrahim111101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/ibrahim-aziz-8857a4257)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](ibbyaziz786@yahoo.com)
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science graduate with expertise in Python programming, Cloud Technologies, and DevOps knowledge. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 👨‍💻 I'm currently working on a Hangman Project.
+- 🌱 I'm constantly learning and exploring new technologies.
+- 🤝 I'm open to collaboration and open-source contributions.
+- 💬 Ask me about Pyhton, Cloud Technologies and Scripting.
+
+## Skills
+
+- 💻 Programming Languages: Python, JavaScript
+- 🌐 Web Development: JavaScript, HTML, & CSS
+- 📦 Cloud Technologies: AWS, Azure, Docker, Terraform, Kubernetes
+
+## Contact
+
+Feel free to reach out to me:
+
+- 📧 Email: ibbyaziz786@yahoo.com
+- 💼 LinkedIn: linkedin.com/in/ibrahim-aziz-8857a4257
+
+## Fun Fact
+
+Huge Liverpool fan with a love to outdoor nature :)  
+
+Let's connect and build something great together!

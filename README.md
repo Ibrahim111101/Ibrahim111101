@@ -22,7 +22,7 @@ I'm a passionate Computer Science graduate with expertise in Python programming,
 
 Feel free to reach out to me:
 
-- 📧 Email: ibbyaziz786@yahoo.com
+- 📧 Email: ibrahimaziz612@gmail.com
 - 💼 LinkedIn: linkedin.com/in/ibrahim-aziz-8857a4257
 
 ## Fun Fact
